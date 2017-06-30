@@ -1,0 +1,72 @@
+body {
+background: yellow;
+font-family: 'Lato', sans-serif;
+/*color: #747704;*/
+color: red;
+font-weight: 300;
+}
+/* use this muted color where this class is applied */
+.text-muted {
+/*    color: #BCBBBB*/
+    color: #000000;
+}
+/* use thiner version where this class is applied */
+.text-thin {
+    font-weight: 100;
+}
+
+/* this is for the <h1> name */
+.title-super {
+    font-size: 55px;
+}
+/* this is to adjust the logo */
+.title-logo {
+    margin-top: 10px;
+}
+
+/* style the horiz rule */
+hr {
+height: 8px;
+margin-left: auto;
+margin-right: auto;
+background-color:#FF0066;
+color:#FF0066;
+border: 0 none;
+}
+
+/* for color blocking */
+#row1 {
+background: pink;
+}
+/* for color blocking */
+#row2 {
+background: green;
+}
+/* for color blocking */
+#row3 {
+background: orange;
+}
+/* for color blocking */
+#row4 {
+background: lime;
+}
+/* for color blocking */
+#row5 {
+background: #42BFBD;
+color: yellow;
+}
+/* for color blocking */
+#FeaturedWork1 {
+background: red;
+}
+/* for color blocking */
+#FeaturedWork2 {
+background: grey;
+}
+/* for color blocking */
+#FeaturedWork3 {
+background: blue;
+}
+
+
+
